@@ -2,18 +2,18 @@
  First External CSS Stylesheet
  **/
 
-body {
+ body {
     padding: 0;
     margin: 0;
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    background: #efeee7;
+    background: #6f12ada1;
   }
   
   header {
-    background: #333;
+    background: rgba(219, 189, 19, 0.699);
   }
   
   h1 {
@@ -30,7 +30,7 @@ body {
   }
   
   a {
-    color: #d21034;
+    color: #08d7e6ab;
   }
   
   .container {
@@ -45,16 +45,16 @@ body {
   }
   
   #main-bio {
-    width: 70%;
+    width: 65%;
   }
   
   #contact-info {
-    width: 30%;
+    width: 35%;
   }
   
   #bio-image {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     margin-right: 20px;
   }
   
